@@ -1,0 +1,41 @@
+body{
+  width:100%;
+}
+.chart{
+  width:100%;
+}
+.chart > div > div{
+  margin: 5px;
+  text-align: right;
+  color:white;
+}
+
+.chart .label{
+  display:block;
+  margin-top:10px;
+  margin-bottom:10px;
+  padding-right: 5px;
+  padding-top:10px;
+  padding-bottom: 10px;
+}
+.total{
+  background-color: steelblue;
+}
+.allocated{
+  background-color: green;
+}
+.unallocated{
+  background-color: red;
+}
+
+#legend{
+  position:absolute;
+  right:20px;
+  top 20px;
+}
+
+#legend span{
+  float:left;
+  min-width:10px;
+  min-height:10px;
+}
