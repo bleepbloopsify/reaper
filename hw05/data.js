@@ -144,6 +144,16 @@ data = {
       "Allocated": 107,
       "Unallocated": 14
     },
+    "Ohio":{
+      "Total": 160,
+      "Allocated": 143,
+      "Unallocated":17
+    },
+    "Arizona":{
+      "Total": 85,
+      "Allocated":75,
+      "Unallocated": 10
+    }/*,
     "":{
       "Total":,
       "Allocated":,
@@ -168,16 +178,6 @@ data = {
       "Total":,
       "Allocated":,
       "Unallocated":
-    },
-    "":{
-      "Total":,
-      "Allocated":,
-      "Unallocated":
-    },
-    "":{
-      "Total":,
-      "Allocated":,
-      "Unallocated":
-    }
+    }*/
   }
 }
