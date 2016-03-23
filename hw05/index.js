@@ -11,17 +11,19 @@ d3.select('.chart')
     var statediv = document.createElement('div');
     d3.select(statediv)
       .append('div')
+      .transition()
       .style('width', scalar(databystate[d]["Total"]) + "px")
-      .append('div')
       .attr('class', 'label total')
       .text(d  + " Total: " + databystate[d]["Total"] );
     d3.select(statediv)
       .append('div')
+      .transition()
       .style('width', scalar(databystate[d]["Allocated"]) + "px")
       .attr('class', 'label allocated')
       .text(databystate[d]["Allocated"] );
     d3.select(statediv)
       .append('div')
+      .transition()
       .style('width', scalar(databystate[d]["Unallocated"]) + "px")
       .attr('class', 'label unallocated')
       .text( databystate[d]["Unallocated"] );

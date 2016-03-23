@@ -153,31 +153,141 @@ data = {
       "Total": 85,
       "Allocated":75,
       "Unallocated": 10
-    }/*,
-    "":{
-      "Total":,
-      "Allocated":,
-      "Unallocated":
     },
-    "":{
-      "Total":,
-      "Allocated":,
-      "Unallocated":
+    "Idaho":{
+      "Total": 27,
+      "Allocated": 23,
+      "Unallocated": 4
     },
-    "":{
-      "Total":,
-      "Allocated":,
-      "Unallocated":
+    "Utah":{
+      "Total": 37,
+      "Allocated": 33,
+      "Unallocated": 4
     },
-    "":{
-      "Total":,
-      "Allocated":,
-      "Unallocated":
+    "Alaska":{
+      "Total": 20,
+      "Allocated": 16,
+      "Unallocated": 4
     },
-    "":{
-      "Total":,
-      "Allocated":,
-      "Unallocated":
-    }*/
+    "Hawaii":{
+      "Total": 35,
+      "Allocated": 25,
+      "Unallocated": 10
+    },
+    "Washington":{
+      "Total": 118,
+      "Allocated": 101,
+      "Unallocated": 17
+    },
+    "Wisconsin":{
+      "Total": 96,
+      "Allocated": 86,
+      "Unallocated": 10
+    },
+    "Wyoming":{
+      "Total": 18,
+      "Allocated": 14,
+      "Unallocated": 4
+    },
+    "New York":{
+      "Total": 291,
+      "Allocated": 247,
+      "Unallocated": 44
+    },
+    "Connecticut":{
+      "Total": 71,
+      "Allocated": 55,
+      "Unallocated": 61
+    },
+    "Delaware":{
+      "Total": 31,
+      "Allocated": 21,
+      "Unallocated": 10
+    },
+    "Maryland":{
+      "Total": 118,
+      "Allocated": 95,
+      "Unallocated": 23
+    },
+    "Pennsylvania":{
+      "Total":210,
+      "Allocated": 189,
+      "Unallocated": 21
+    },
+    "Rhode Island":{
+      "Total": 33,
+      "Allocated": 24,
+      "Unallocated": 9
+    },
+    "Indiana":{
+      "Total": 92,
+      "Allocated": 83,
+      "Unallocated": 9
+    },
+    "Guam":{
+      "Total": 12,
+      "Allocated": 7,
+      "Unallocated": 5
+    },
+    "West Virginia":{
+      "Total": 37,
+      "Allocated": 29,
+      "Unallocated": 8
+    },
+    "Kentucky":{
+      "Total": 60,
+      "Allocated": 55,
+      "Unallocated": 5
+    },
+    "Oregon":{
+      "Total": 74,
+      "Allocated": 61,
+      "Unallocated": 13
+    },
+    "Virgin Islands":{
+      "Total": 12,
+      "Allocated": 7,
+      "Unallocated": 5
+    },
+    "Puerto Rico":{
+      "Total": 67,
+      "Allocated": 60,
+      "Unallocated": 7
+    },
+    "California":{
+      "Total": 548,
+      "Allocated": 475,
+      "Unallocated": 73
+    },
+    "Montana":{
+      "Total": 27,
+      "Allocated": 21,
+      "Unallocated": 6
+    },
+    "New Jersey":{
+      "Total": 142,
+      "Allocated": 126,
+      "Unallocated": 16
+    },
+    "New Mexico":{
+      "Total": 43,
+      "Allocated": 34,
+      "Unallocated": 9
+    },
+    "North Dakota":{
+      "Total": 23,
+      "Allocated": 5,
+      "Unallocated": 18
+    },
+    "South Dakota":{
+      "Total": 25,
+      "Allocated": 20,
+      "Unallocated": 5
+    },
+    "District of Columbia":{
+      "Total": 46,
+      "Allocated": 20,
+      "Unallocated": 26
+    }
   }
 }
