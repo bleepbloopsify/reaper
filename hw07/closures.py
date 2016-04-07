@@ -22,8 +22,7 @@ def repeat(string):
         return string * times
     return multiply
 
-def r1(times):
-    return repeat('hello')(times)
+r1 = repeat('hello')
 
 def r2(times):
     return repeat('goodbye')(times)
@@ -31,3 +30,13 @@ def r2(times):
 print( 'repeat("cool")(3)' +  repeat('cool')(3))
 print( 'r2(2)' + r2(2))
 print('r1(1)' + r1(1))
+
+
+def f(x, y):
+	print x
+	y(x)
+
+def z(x):
+	print x * x 
+
+f( 5, z)
