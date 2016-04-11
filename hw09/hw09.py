@@ -21,7 +21,21 @@ def hello(*args):
 @gettime
 @getfunc
 def fib(n):
+
+
+def fibhelper(n)
     return 1 if n <= 2 else fib(n - 1) + fib(n - 2)
+
+@gettime
+@getfunc
+def quicksort(a):
+    return [] if not a else quicksort([x for x in a if x < a[0]]) + [x for x in a if x == a[0]] + quicksort( [ x for x in a if x > a[0] ] )
+
+arr = [1,3,4,5,6,7,8,12,21,323,4,55,667,12,1313,14,23,2211,55]
+
+print quicksort(arr)
+
+
 
 
 print hello(1, 2, 3, 4)
