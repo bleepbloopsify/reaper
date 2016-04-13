@@ -21,9 +21,9 @@ def hello(*args):
 @gettime
 @getfunc
 def fib(n):
+    return fibhelper(n)
 
-
-def fibhelper(n)
+def fibhelper(n):
     return 1 if n <= 2 else fib(n - 1) + fib(n - 2)
 
 @gettime
